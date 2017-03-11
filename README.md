@@ -7,4 +7,4 @@ I would like to start by correcting the [point in time](https://www.wikidata.org
 
 Once the date qualifications are fixed for the states, I would like to check and correct the dates for other geographic entities in the US.
 
-This work was started for this[Wikipedia Data Design Challenge 2017](https://www.eventbrite.com/e/wikipedia-data-design-challenge-2017-tickets-31783891475).
+This work was started for the [Wikipedia Data Design Challenge 2017](https://www.eventbrite.com/e/wikipedia-data-design-challenge-2017-tickets-31783891475).
